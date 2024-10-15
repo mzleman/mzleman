@@ -1,4 +1,4 @@
 About me:
 - 👯 location: HangZhou, China
-- 🌱 major: GIS
+- 🌱 skills: GIS, Front-end Programming
 - 📫 email-address: leman.mazheng@gmail.com
